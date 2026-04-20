@@ -26,8 +26,8 @@
 #include <PubSubClient.h>
 
 // ── Credenziali WiFi ─────────────────────────────────────
-const char* ssid     = "myhome-2G";
-const char* password = "crispyjungle618";
+const char* ssid     = "TEST";
+const char* password = "TEST";
 
 // ── MQTT ─────────────────────────────────────────────────
 const char* mqtt_server   = "IP MQTT";
